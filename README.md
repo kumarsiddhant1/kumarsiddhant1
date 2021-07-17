@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 </ul>
 
 <h3 align="left">Languages I know :-</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left">
+  
+<a href="https://www.cprogramming.com/" target="_blank"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </p>
 
+<br></br>
 
 <h3 align="left">Libraries I know:-</h3>
 <p align="left"> 
   
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/> </a>
-</a>
-<img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" alt="scikit_learn" width="85" height="40"/> </a>  
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/kumarsiddhant1/kumarsiddhant1/blob/main/Screenshot%202021-07-17%20150434.png" alt="scikit_learn" width="85" height="40"/> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="scikit_learn" width="85" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://miro.medium.com/max/1184/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="scikit_learn" width="55" height="45"/> </a>  
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/> </a></a><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" alt="scikit_learn" width="85" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/kumarsiddhant1/kumarsiddhant1/blob/main/Screenshot%202021-07-17%20150434.png" alt="scikit_learn" width="85" height="40"/> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="scikit_learn" width="85" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://miro.medium.com/max/1184/1*5dQO7LHrsy3lIi2d0bgRLw.png" alt="scikit_learn" width="55" height="45"/> </a>  
 </p>
 
+<br></br>
 
 <h3 align="left">Tools and IDEs I know :-</h3>
 <p align="left"> 
@@ -45,10 +45,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-
-
+<br></br>
 
 <h3 align="left">Github Streak Card :-</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsiddhant1&theme=dark" alt="kumarsiddhant1" /></p>
