@@ -1,8 +1,7 @@
-### Hi there 👋
+
+<img src="https://github.com/kumarsiddhant1/kumarsiddhant1/blob/main/ABOUT%20ME%20(2).gif" width="850" height="500">
 
 <!--
-**kumarsiddhant1/kumarsiddhant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,9 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hey there
-# :hand:
-# <a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-</a>
