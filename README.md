@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects I am working on:-
+### 1.) Brain Tumor Detection using Support Vector Machine. (ML)
+### 2.) Machine Translation (NLP)
+### 3.) Amazon Product Sentiment Analyzer (NLP)
