@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <h2> Projects I am working on :- </h2>
 <ul>
-  <li>Brain Tumor Detection </li>
   <li>Machine Translation </li>
-  <li>Amazon Product Sentiment Analyzer </li>
 </ul>
 
 <h3 align="left">Languages I know :-</h3>
