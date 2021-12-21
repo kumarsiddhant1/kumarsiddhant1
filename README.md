@@ -1,5 +1,4 @@
 
-<img src="https://github.com/kumarsiddhant1/kumarsiddhant1/blob/main/ABOUT%20ME%20(2).gif" width="850" height="500">
 
 <!--
 Here are some ideas to get you started:
